@@ -80,6 +80,6 @@ Ready to explore? Dive into the R notebook to see the code, visualizations, and 
 
 **Author:** Utkarsh Bhardwaj</br>
 **Publishing Date:** 24th Feburary, 2025</br>
-[LinkedIn](https://www.linkedin.com/in/utkarsh284/) | </br>
-[GitHub](https://github.com/utkarsh-284) | </br>
-[Kaggle](https://www.kaggle.com/utkarsh284)
+**LinkedIn:** [utkarsh_284](https://www.linkedin.com/in/utkarsh284/) | </br>
+**GitHub:** [utkarsh-284](https://github.com/utkarsh-284) | </br>
+**Kaggle:** [utkarsh284](https://www.kaggle.com/utkarsh284)
