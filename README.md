@@ -1,13 +1,13 @@
 # Cyclistic Bike-Share Analysis: Unlocking Rider Behavior Patterns 🚴♂️📊
 
 
-# Project Overview
+## Project Overview
 
 This R-based case study analyzes Cyclistic's bike-share data (Q1 2019 & Q1 2020) to compare usage patterns between **members** (annual subscribers) and **casual** riders. Discover actionable insights to drive data-informed marketing strategies!
 
-# Key Steps in Analysis
+## Key Steps in Analysis
 
-## 🛠️ Data Preparation:
+### 🛠️ Data Preparation:
 
 * Data Loading & Exploration
 
@@ -15,7 +15,7 @@ This R-based case study analyzes Cyclistic's bike-share data (Q1 2019 & Q1 2020)
 
 * Standardized column names across years for seamless merging.
 
-## Data Cleaning:
+### Data Cleaning:
 
 * Removed non-essential columns (`start_lat`, `end_lat`, `gender`, `birthyear`) due to high missing values.
 
@@ -25,7 +25,7 @@ This R-based case study analyzes Cyclistic's bike-share data (Q1 2019 & Q1 2020)
 
   Maintenance-related rides (`HQ QR` stations)
 
-## Feature Engineering:
+### Feature Engineering:
 
 * Converted datetime strings (`started_at`, `ended_at`) to POSIXct format.
 
@@ -33,11 +33,11 @@ This R-based case study analyzes Cyclistic's bike-share data (Q1 2019 & Q1 2020)
 
 * Calculated `ride_length` (seconds) to quantify trip durations.
 
-## Outlier Handling:
+### Outlier Handling:
 
 * Used boxplots and Q-Q plots to identify skewed distributions in ride durations.
 
-# 🧐 Key Insights:
+## 🧐 Key Insights:
 
 * **Temporal Patterns:** Weekday vs. weekend usage trends, seasonal variations.
 
@@ -46,7 +46,7 @@ This R-based case study analyzes Cyclistic's bike-share data (Q1 2019 & Q1 2020)
 * **Station Popularity:** Most frequent start/end stations for each group.
 
 
-# 🔮 Future Work:
+## 🔮 Future Work:
 
 * **Expand Timeframe:** Analyze multi-year data for long-term trends.
 
@@ -59,7 +59,7 @@ This R-based case study analyzes Cyclistic's bike-share data (Q1 2019 & Q1 2020)
 * **Predictive Modeling:** Forecast demand to optimize bike redistribution.
 
 
-# ⚙️ Technical Setup:
+## ⚙️ Technical Setup:
 
 * **Language:** R
 
@@ -68,7 +68,7 @@ This R-based case study analyzes Cyclistic's bike-share data (Q1 2019 & Q1 2020)
 * **Environment:** Ensure R kernel is configured before running the notebook.
 
 
-# 💡 Why This Matters:
+## 💡 Why This Matters:
 
 By understanding how members and casual riders differ, Cyclistic can design tailored marketing strategies to convert casual users into loyal subscribers, driving revenue growth.
 
