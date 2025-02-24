@@ -1,4 +1,4 @@
-<h1 align='center> Cyclistic Bike-Share Analysis: Unlocking Rider Behavior Patterns 🚴♂️📊 </h1>
+# Cyclistic Bike-Share Analysis: Unlocking Rider Behavior Patterns 🚴♂️📊
 
 
 # Project Overview
