@@ -76,3 +76,10 @@ By understanding how members and casual riders differ, Cyclistic can design tail
 Ready to explore? Dive into the R notebook to see the code, visualizations, and detailed findings! 📈🔍
 
 (Note: Ensure datasets `Divvy_Trips_2019_Q1.csv` and `Divvy_Trips_2020_Q1.csv` are placed in the `/content/` directory before execution.)
+
+
+**Author:** Utkarsh Bhardwaj</br>
+**Publishing Date:** 24th Feburary, 2025</br>
+[LinkedIn](https://www.linkedin.com/in/utkarsh284/) | </br>
+[GitHub](https://github.com/utkarsh-284) | </br>
+[Kaggle](https://www.kaggle.com/utkarsh284)
