@@ -139,25 +139,4 @@ Cyclistic Case Study/
 
 ---
 
-<<<<<<< HEAD
 *This case study demonstrates the power of data analytics in transforming business operations and driving strategic growth in the bike-share industry.*
-=======
-* **Environment:** Ensure R kernel is configured before running the notebook.
-
-
-## 💡 Why This Matters:
-
-By understanding how members and casual riders differ, Cyclistic can design tailored marketing strategies to convert casual users into loyal subscribers, driving revenue growth.
-
-
-Ready to explore? Dive into the R notebook to see the code, visualizations, and detailed findings! 📈🔍
-
-(Note: Ensure datasets `Divvy_Trips_2019_Q1.csv` and `Divvy_Trips_2020_Q1.csv` are placed in the `/content/` directory before execution.)
-
-
-**Author:** Utkarsh Bhardwaj</br>
-**Publishing Date:** 24th Feburary, 2025</br>
-**LinkedIn:** [utkarsh284](https://www.linkedin.com/in/utkarsh284/) | </br>
-**GitHub:** [utkarsh-284](https://github.com/utkarsh-284) | </br>
-**Kaggle:** [utkarsh284](https://www.kaggle.com/utkarsh284)
->>>>>>> 00b3d3eeb14e5f09630b9f0de7f3747d6027143f
